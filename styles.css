@@ -1,0 +1,66 @@
+.avatar-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid darkslategray;
+    border-style: double;
+}
+
+.header-text {
+    color: darkslategray
+}
+
+.navbar {
+    background-image: url(../bootstrap/images/nasa-7Cz6bWjdlDs-unsplash.jpg);
+    background-position: 55% -60%;
+    background-size: 80%;
+    font-family: garamund, High Tower Text, OCR A, serif;
+}
+
+.content {
+    background-color: rgb(157, 168, 179);
+    font-family: garamund, High Tower Text, OCR A, serif;
+    
+}
+
+.content-words {
+    justify-content:center;
+    align-items: center;
+}
+
+.vid-embed {
+    border: 5px solid darkslategray;
+    border-style: double;
+}
+
+.card-img-top {
+    border-top-right-radius: 50%; 
+    border: 5px double darkslategray;
+    height: 13rem;
+}
+
+.card {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.918);
+    font-family: garamund, High Tower Text, OCR A, serif;
+}
+
+.card-link {
+    color:goldenrod;
+}
+
+.card-link:hover {
+    color:grey;
+}
+
+.fa {
+    padding-top: 15px;
+    font-size: 30px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: darkslategray;
+    color: goldenrod
+  }
